@@ -2587,7 +2587,7 @@ figcaption {
   color: var(--white-smoke);
   letter-spacing: -.02em;
   margin-bottom: 0;
-  font-family: Generalsans Variable, sans-serif;
+  font-family: 'inter display', sans-serif;
   font-size: 10rem;
   font-weight: 500;
   line-height: .8em;
